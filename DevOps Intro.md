@@ -19,7 +19,7 @@
 - DevOps stands for Development and Operations.
 - It is an approach, a methodology, a culture where teams simultaneously and efficiently work smoothly.
 
-![Screenshot (126)](./Images/Screenshot (126).png)
+<img src="./Images/Screenshot (126).png" style="zoom:140%;" />
 
 - The development team plans and build the code and run tests and then passes it to the operations team for deployment, further operations and monitoring.
 - This process is automated and integrated through DevOps continuously.
@@ -60,3 +60,30 @@ Some of the most popular SDLC models include:
 3. Spiral Model
 4. V-Model
 5. Iterative Model
+
+### Waterfall Model:
+
+- The Waterfall Model is a linear sequential flow. 
+- As the name suggests, progress flow steadily downwards (like a waterfall) through the phases of software implementation. 
+- Any phase in the development process begins only if the previous phase is complete. 
+- There is no way to get back to previous phase once its done.
+- The usage of the waterfall model can fall under the projects which do not focus on changing the requirements.
+
+<img src="./Images/download.png" style="zoom:120%;" />
+
+#### Stages of Waterfall model
+
+1. **Feasibility Study**: Determines whether the project is financially and technically feasible or not.
+2. **Requirements analysis and specification**: All the requirements are understood in this phase and a SRS(Software Requirements Specification) document is also made. All the requirements regarding the software are gathered from the customer to meet their requirements.
+3. **Design**: The requirement specifications from first phase are studied in this phase and the system design. The requirements in the SRS are converted into a format that can be coded in a programming language. A Software Design Document is used to document all of this effort (SDD).
+4. **Coding and Unit testing**: After the design phase, coding starts and each modules is coded and individually tested referred as unit testing. Each designed module is coded and tested whether it is working properly or not.
+5. **Integration and System testing**: All the modules in previous stage which are successfully coded and tested are now integrated together and the whole system is tested to determine whether the complete system is working fine or not after integration.
+6. **Maintenance**: Maintenance is the most important phase of a software life cycle. The effort spent on maintenance is 60% of the total effort spent to develop a full software.
+
+|                       Advantages                        |                        Disadvantages                         |
+| :-----------------------------------------------------: | :----------------------------------------------------------: |
+|                     Simple and Easy                     |                         Rigid model                          |
+|                  Base for other models                  |                    No changes/experiments                    |
+| Requirements are very well documented, clear and fixed. |                        No parallelism                        |
+|         Stages and activities are well defined          | It takes the full lifecycle to deliver a workable solution to the customer |
+
