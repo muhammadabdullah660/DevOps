@@ -8,7 +8,7 @@
 - There is no way to get back to previous phase once its done.
 - The usage of the waterfall model can fall under the projects which do not focus on changing the requirements.
 
-<img src="./Images/download.png" style="zoom:120%;" />
+<img src="../Images/download.png" style="zoom:120%;" />
 
 #### Stages of Waterfall model
 
@@ -34,7 +34,7 @@
 - Agile based products don't require any time frame downtime to deploy changes unlike the waterfall model.
 - The time to complete an iteration is known as a **Time Box**. Time-box refers to the maximum amount of time needed to deliver an iteration to customers
 
-<img src="./Images/agile.png" style="zoom:120%;" />
+<img src="../Images/agile.png" style="zoom:120%;" />
 
 #### Agile Manifesto principles:
 
@@ -56,16 +56,15 @@
 
 ### Waterfall :vs: Agile Model:
 
-|               Waterfall               |                            Agile                             |
-| :-----------------------------------: | :----------------------------------------------------------: |
-| Promotes team work and collaboration  | Depends heavily on customer interaction, so if customer is not clear, team can be driven in the wrong direction |
-| Frequent delivery of product/software | Transfer of technology to new team members may be quite challenging due to lack of documentation |
-|         Feedback from client          | There is a very high individual dependency, since there is minimum documentation generated |
-| Ability to manage changing priorities |        More risk of maintainability and extensibility        |
-|          Parallel iterations          |                                                              |
-|          Less documentation           |                                                              |
-|    Little or no planning required     |                                                              |
-|    Gives flexibility to developers    |                                                              |
+|                       Waterfall                       |                         Agile                         |
+| :---------------------------------------------------: | :---------------------------------------------------: |
+|        Focused on delivering the whole product        |                 Focused on iterations                 |
+|               Works on complete project               | Divides large and complex project into smaller chunks |
+|                Top-down responsibility                |                 Shared Responsibility                 |
+|             Initial research and planning             |        Ongoing research, planning, and testing        |
+| Different teams in different stages. No collaboration |                 Ongoing collaboration                 |
+|                      Rigid model                      |                    Flexible model                     |
+|               Well-defined requirements               |  Requirements can be changed continuously with time   |
 
 
 
