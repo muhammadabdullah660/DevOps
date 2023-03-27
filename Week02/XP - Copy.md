@@ -27,13 +27,3 @@
 8. **Continuous integration**: XP teams integrate their code frequently to make sure the whole system is working fine or not after integration. This helps in feedback and debugging process. 
 9. **Collective code ownership**: The code is shared between XP teams so that anyone can make change as needed. The whole team is responsible for the system and everyone knows what is happening in other parts of the system apart from their own.
 10. **Sustainable pace**: XP encourages developers to work at a sustainable pace, which means that they should not work long hours or take on excessive amounts of work. This helps to prevent burnout and ensure that the team can maintain a consistent level of productivity. A maximum work of 45 hours per week is suggested. Overtime is allowed for at most one week.
-
-### Benefits of Pair Programming: 
-
-In Pair Programming, one programmer, known as the **"driver"**, is responsible for typing code while the other, known as the **"navigator"**, reviews the code and offers feedback and suggestions. This approach has several benefits:
-
-- **Code Review:** Pairing is better when it comes to reviewing code because without pairing, people usually don't bother checking and reviewing other's code just for the sake of quality checking. 
-- **Quality Code:** When two people work together, pair programming ensures good quality of code because the navigator is constantly reviewing the code. The risk of bugs is reduced because of feedback by the navigator.
-- **Better Communication**: Pair programming requires constant communication between the two programmers, which can help to improve overall communication skills. This can lead to better collaboration and teamwork, both within the programming team and across the organization as a whole.
-- **More efficient**: Two programmers solving one problem together takes less time as compared to solving a problem independently. So, *two heads are always better than one*.
-- **Knowledge Sharing**: Two persons working together will share much knowledge with each other and a learning environment will be created.
