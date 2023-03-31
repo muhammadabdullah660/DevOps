@@ -34,3 +34,19 @@
 6. **Automate recovery:** Build automated recovery processes that can detect and respond to failures automatically, such as automatically restarting a failed service or migrating to a secondary server.
 7. **Implement load balancing**: Use load balancing techniques to distribute traffic across multiple instances of services or applications, which can prevent overloading and mitigate the impact of failures.
 8. **Practice chaos engineering**: Conduct controlled experiments to test the resilience of the system by introducing failure scenarios and measuring the response. This can help identify weaknesses in the system and improve its overall resilience.
+
+### Taylorism
+
+Taylorism, also known as Scientific Management, is a management theory developed by Frederick Winslow Taylor in the late 19th and early 20th centuries. It focuses on the systematic analysis and optimization of tasks and processes in the workplace to improve efficiency, productivity, and profitability.
+
+#### Core principles of Taylorism
+
+1. **Scientific approach**: Replace rule-of-thumb methods with data-driven practices, based on systematic observation and analysis of tasks, processes, and workflows to find the most efficient way to perform work.
+
+2. **Worker selection and training**: Select workers based on their skill sets and capabilities, and provide them with proper training to maximize efficiency. Assign tasks and responsibilities based on individual strengths and expertise.
+
+3. **Standardization of methods and tools**: Develop standardized procedures, methods, and tools for performing tasks, to ensure consistency, reduce errors, and eliminate variability among workers.
+
+4. **Division of labor and specialization**: Break down complex tasks into smaller, more manageable sub-tasks and assign each to specialized workers. This allows workers to become experts in their specific tasks, which can lead to increased efficiency and productivity.
+
+5. **Incentive-based compensation**: Link worker compensation to performance and productivity, offering higher pay or rewards for increased efficiency and output. 
