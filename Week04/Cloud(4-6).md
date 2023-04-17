@@ -36,3 +36,12 @@ To mitigate these threats, organizations can implement various security measures
 - In this model, the user only needs to provide the application code, and the cloud provider takes care of everything else, including scaling, availability, and maintenance. 
 - This approach can significantly reduce the cost and complexity of application deployment and management. 
 - However, it also has some limitations such as limited control over the underlying infrastructure and potential vendor lock-in.
+
+### Storage on Cloud
+
+1. **Object Storage**: This type of storage is ideal for **unstructured data** like media files, images, and documents. Object storage uses a *flat address space and unique identifiers* to store data. Examples of object storage services include Amazon S3, Google Cloud Storage, and Microsoft Azure Blob Storage.
+2. **Block Storage**: Block storage is designed for **structured data** and is commonly used for storing data that requires *frequent access or low latency*. Block storage is often used for applications that require high-performance storage, such as databases. Examples of block storage services include Amazon Elastic Block Store (EBS), Google Persistent Disk, and Microsoft Azure Managed Disks.
+3. **File Storage**: File storage is used for sharing files across multiple instances or servers. This type of storage is ideal for structured data that requires network file system access, such as configuration files, web server files, and source code. Examples of file storage services include Amazon Elastic File System (EFS), Google Cloud Filestore, and Microsoft Azure Files.
+4. **Archive Storage:** Archive storage is designed for *long-term data retention and infrequent access*. This type of storage is typically used for **backup and disaster recovery purposes**. Examples of archive storage services include Amazon Glacier, Google Cloud Storage Nearline, and Microsoft Azure Archive Storage.
+5. **Cold Storage**: Cold storage is similar to archive storage, but with slightly faster retrieval times and higher cost. This type of storage is used for *data that is accessed infrequently but may need to be retrieved quickly*. Examples of cold storage services include Amazon S3 Glacier, Google Cloud Storage Coldline, and Microsoft Azure Cool Blob Storage.
+
