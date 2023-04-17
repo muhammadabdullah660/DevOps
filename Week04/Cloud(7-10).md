@@ -35,3 +35,20 @@ DevSecOps takes the principles of DevOps and expands them to include security co
 The main difference between DevOps and DevSecOps is that DevSecOps places a greater emphasis on security, and requires security to be considered at every stage of the software development lifecycle. While DevOps focuses on collaboration and communication between development and operations teams, DevSecOps extends this collaboration to include security teams as well.
 
 Overall, DevSecOps is a more comprehensive approach to software development that incorporates security considerations into every stage of the process, whereas DevOps focuses more narrowly on collaboration between development and operations teams to improve the speed and quality of software delivery.
+
+
+
+### What is cloud monitoring?
+
+Cloud monitoring is the process of tracking and analyzing the performance and health of cloud-based infrastructure, applications, and services. It involves collecting data from various sources such as logs, metrics, and events, and analyzing this data to identify potential issues and take corrective action.
+
+Cloud monitoring typically involves monitoring the following components:
+
+1. Infrastructure: Cloud monitoring tools can monitor virtual machines, storage, network, and other infrastructure components to ensure they are running optimally and detect potential issues before they become critical.
+2. Applications: Cloud monitoring can also track the performance of cloud-based applications, including response time, error rates, and other metrics. This can help identify bottlenecks or other issues that may be affecting the user experience.
+3. Services: Cloud monitoring can track the performance of cloud-based services, such as databases, load balancers, and content delivery networks (CDNs).
+4. Security: Cloud monitoring can also help identify security threats and vulnerabilities, including unauthorized access attempts, abnormal user behavior, and suspicious activity.
+
+Cloud monitoring tools can provide real-time alerts, dashboards, and reports to help IT teams identify and resolve issues quickly. Many cloud monitoring tools also use machine learning and other advanced analytics techniques to help identify patterns and anomalies that may indicate potential issues.
+
+Overall, cloud monitoring is an essential part of maintaining the health and performance of cloud-based infrastructure, applications, and services. By proactively monitoring these components, organizations can ensure they are running optimally, identify potential issues before they become critical, and deliver a better user experience.
