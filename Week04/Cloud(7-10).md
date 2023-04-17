@@ -23,3 +23,15 @@ Here are some ways in which DevOps works on cloud:
 4. Monitoring and Analytics: DevOps teams can use cloud-based monitoring and analytics tools like CloudWatch or Datadog to monitor the performance of their applications and infrastructure. This helps teams identify and resolve issues quickly.
 
 Overall, DevOps and cloud computing can work together to improve the speed and reliability of software delivery. By automating processes and leveraging cloud-based infrastructure and tools, DevOps teams can focus on delivering high-quality applications faster and more efficiently.
+
+### What is the difference between DevOps and DevSecOps?
+
+DevOps and DevSecOps are both methodologies that aim to improve software delivery by fostering collaboration and communication between development teams and operations teams. However, DevSecOps includes an additional focus on security throughout the entire software development lifecycle.
+
+DevOps emphasizes collaboration between development and operations teams to improve the speed and quality of software delivery. It involves the automation of software development processes, continuous integration and deployment, and the use of agile methodologies. The goal of DevOps is to create a culture of collaboration, communication, and continuous improvement.
+
+DevSecOps takes the principles of DevOps and expands them to include security considerations throughout the entire software development lifecycle. This means that security is integrated into every stage of the software development process, from design to deployment. DevSecOps includes security testing, vulnerability management, and risk assessment as key components of the development process.
+
+The main difference between DevOps and DevSecOps is that DevSecOps places a greater emphasis on security, and requires security to be considered at every stage of the software development lifecycle. While DevOps focuses on collaboration and communication between development and operations teams, DevSecOps extends this collaboration to include security teams as well.
+
+Overall, DevSecOps is a more comprehensive approach to software development that incorporates security considerations into every stage of the process, whereas DevOps focuses more narrowly on collaboration between development and operations teams to improve the speed and quality of software delivery.
