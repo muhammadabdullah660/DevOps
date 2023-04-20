@@ -29,3 +29,19 @@ In a classic Kanban board model, there are three columns, as shown in the pictur
 - “To Do”: This column lists the tasks that are not yet started. (aka “backlog”)
 - “Doing”: Consists of the tasks that are in progress.
 - “Done”: Consists of the tasks that are completed.
+
+#### Kanban board Components
+
+<img src="../Images/Kanban_board-elements.webp" style="zoom:120%;" />
+
+**Kanban Cards** – This is the visual representation of tasks. Each card contains information about the task and its status, such as deadline, assignee, description, etc.
+
+**Kanban Columns** – Each column on the board represents a different stage of your workflow. The cards go through the workflow until their full completion.
+
+**Work-in-Progress Limits** – They restrict the maximum amount of tasks in the different stages of the workflow. Limiting WIP allows you to finish work items faster by helping your team focus only on current tasks.
+
+**Kanban Swimlanes** – These are horizontal lanes you can use to separate different activities, teams, classes of service, and more.
+
+**Commitment Point** – A commitment marks a point in the work process where a work item is ready to be pulled into the system.
+
+**Delivery Point** – The point in the workflow where work items are considered finished.
