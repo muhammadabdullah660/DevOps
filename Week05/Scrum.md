@@ -57,3 +57,26 @@ In a classic Kanban board model, there are three columns, as shown in the pictur
 **Commitment Point** – A commitment marks a point in the work process where a work item is ready to be pulled into the system.
 
 **Delivery Point** – The point in the workflow where work items are considered finished.
+
+### User Stories: 
+
+User stories are a technique commonly used in agile software development to capture the requirements or desired functionality from the perspective of end-users or stakeholders. They are typically written in a simple, concise, and non-technical language, focusing on the user's needs, goals, and desired outcomes. User stories are usually written in the format: "As a [role], I want [goal] so that [benefit]."
+
+### Story Points: 
+
+Story points are a unit of measure used in agile software development to **estimate the relative effort or complexity of implementing a user story**. Instead of assigning specific time durations, teams assign story points to reflect the relative size or effort required for a particular story. Story points are usually represented using a numerical scale, such as the Fibonacci sequence (1, 2, 3, 5, 8, 13, etc.). The **higher the story point value, the more effort or complexity** is associated with the story.
+
+### INVEST Characteristics: 
+
+INVEST is an acronym that stands for a set of **characteristics that user stories should possess** to be effective:
+
+1. Independent: Each user story should be self-contained and independent of other stories, allowing them to be developed and delivered in any order.
+2. Negotiable: User stories are not contracts; they should serve as a starting point for discussion and collaboration between the development team and stakeholders.
+3. Valuable: User stories should deliver value to the end-users or stakeholders. They should focus on the outcomes and benefits that users expect.
+4. Estimable: User stories should be clear and specific enough to allow the development team to estimate the effort or complexity involved accurately.
+5. Small: User stories should be small enough to be completed within a single iteration or sprint. Smaller stories are easier to manage and estimate.
+6. Testable: User stories should have clear acceptance criteria or conditions of satisfaction that can be used to determine when a story is complete and working as expected.
+
+### Epic: 
+
+In agile development, an epic is a large body of work that is too big to be implemented as a single user story. Epics are often broken down into smaller, more manageable user stories that can be completed within a single iteration or sprint. Epics provide a higher-level view of the work to be done and help with long-term planning and prioritization. They serve as placeholders for grouping related stories and provide a way to track progress and dependencies.
